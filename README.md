@@ -5,4 +5,6 @@ Temos usado a placa Arduíno no contexto de algumas disciplinas e atividades ext
 2. Intensificar a prática em programação, especialmente nas linguagens C/C++;
 3. Sedimentar os conceitos sobre eletrônica ana´logica e eletrônica digital.
 
+Os manuais dos equipamentos utilizados para realizar as medições podem ser obtidos [aqui](https://1drv.ms/u/s!AsTd8oN7mu8pjoM-IdijvOZr1qPAyw?e=UVV2OI)
+
 Os exemplos são implementados, quando possível, utilizando-se, preliminarmente, um simulador.
