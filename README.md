@@ -1,4 +1,4 @@
-# Exemplos das aplicações para o Arduíno 2560 desenvolvidas nos ensaios de laboratório com 
+# Exemplos das aplicações para o Arduíno 2560 desenvolvidas nos ensaios de laboratório
 
 Temos usado a placa Arduíno no contexto de algumas disciplinas e atividades extraclasse, buscando alcançar os principais objetivos:  
 1. Sedimentar os conceitos sobre arquitetura de sistemas computacionais;  
