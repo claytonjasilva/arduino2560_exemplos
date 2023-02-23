@@ -2,7 +2,7 @@
 
 // inicializa a biblioteca
 // com os números dos pinos do arduíno
-const int rs = 10, en = 8, d4 = 0, d5 = 1, d6 = 2, d7 = 3;
+const int rs = 10, en = 8, d4 = 2, d5 = 3, d6 = 4, d7 = 5;
 LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
 
 void setup() {
